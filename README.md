@@ -1,4 +1,6 @@
-In this project, let's build a **Reviews App** by applying the concepts we have learned till now.
+In this project, let's build a **Reviews App** by applying the concepts I have learned till now.
+### Link to Review App 
+https://revcr.ccbp.tech/
 
 ### Refer to the image below:
 
