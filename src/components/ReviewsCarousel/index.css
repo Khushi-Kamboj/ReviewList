@@ -1,0 +1,43 @@
+.card-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+.Carousel-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.carasoulItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.eachItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.arrow {
+  height: 50px;
+  width: 50px;
+  background-color: transparent;
+  border-width: 0px;
+}
+
+p {
+  text-align: center;
+  width: 500px;
+}
